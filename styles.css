@@ -8,7 +8,7 @@
 /* Mobile and Tablet styles */
 header {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(/images/bg-image.webp);
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(./images/bg-image.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
