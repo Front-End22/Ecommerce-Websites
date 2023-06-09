@@ -353,6 +353,11 @@ address .fa-solid,
         margin-bottom: 0.7rem;
         padding: 0 1.4rem;
     }
+    
+    .break::before {
+    content: "\a";
+    white-space: pre;
+   }
 
     .first span,
     .second span,
