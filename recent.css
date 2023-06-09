@@ -338,11 +338,10 @@ address .fa-solid,
     .second p:first-child,
     .third p:first-child {
         background-color: #FFFFFFD4;
-        width: 12%;
-        padding: 25px 15px;
+        width: 10%;
+        padding: 25px 10px;
         margin-bottom: 10.5rem;
         font-size: 2rem;
-        flex-direction: column;
     }
 
     .first p:nth-child(2),
